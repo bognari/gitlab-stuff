@@ -1,0 +1,1 @@
+$.getScript("https://raspi61.ips.cs.tu-bs.de/errorlog.js");
